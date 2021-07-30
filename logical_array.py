@@ -18,7 +18,7 @@ Sample Input 0
 Sample Output 0
 
 16'''
-#code:
+#code by yashassvi:
 l=list(map(int,input().split(' ')))
 n=0
 for i in range(len(l)):
